@@ -1,2 +1,2 @@
 # myFirstJSLandingPage
-Here is my very first js landing page 
+Here is my very first landing page 
